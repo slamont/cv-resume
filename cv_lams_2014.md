@@ -2,11 +2,6 @@ Sylvain Lamontagne, ing. jr
 ===========================
 ---
 
-5417 Tsse Beaudry  
-Saint-Hubert (Québec)  J3Y 7G8  
-Téléphone :		450-812-1809  
-Mobile :	514-791-1021  
-
 Sylvain.lamontagne@gmail.com
 
 Langues : Français et Anglais
