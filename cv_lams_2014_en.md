@@ -15,7 +15,22 @@ Work in teams to develop products that push the limits of technology
 Work Experience
 --------------------------
 
-#### Since November 2011
+#### Since July 2014
+**Development and Operations Specialist**  
+_AssetScience LLC, Montreal_
+
+Develops solutions in Puppet to manage, maintain and automate the company infrastructure. Architecture and plan the IT environment and the deployment to bring continuous integration to the release cycle of AssetScience's products.
+
+
+**Realisations :**
+
+-	Resident expert in configuration automation and Puppet
+-	Promote continuous integration
+-	Promote Agile Methodologies (Certified 'Product Owner')
+-	Manage the build and deployment infrastructures (Bamboo, maven, Puppet)
+
+
+#### From November 2011 to June 2014
 **Agile Software Developer**  
 _iWeb Technologie, Nun's Island, Montreal_
 
