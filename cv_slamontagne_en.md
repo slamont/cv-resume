@@ -15,7 +15,29 @@ Work in teams to develop products that push the limits of technology
 Work Experience
 --------------------------
 
-#### Since July 2014
+#### Since October 2014
+**Team Lead DevOps**  
+_AssetScience LLC, Montreal_
+
+Our DevOps team is at the heart of the enterprise and we make sure to find solutions that will help our fellow Devs and Operations colleague.
+Collaborate on improving and helping the developers and the operations teams on delivering new features quickly to customers without affecting the quality of the products.
+We manage a cloud infrastructure in AWS, essential to the analytics part of our solution for each customer.
+All the infrastructure of the enterprise is now in puppet and our corporate tools are from Atlassian.
+We also put in place a completely automated monitoring solution based on Icinga and puppet.
+
+I believe in team work and collaboration.
+I also believe in automated and standardized infrastructures has it is a key factor to improved quality overall.
+
+
+**Realisations :**
+
+- Coach other developers on Continuous Integration
+-	Participate on Strategic Direction
+-	Manage Cost and Estimations for our Products infrastructure and Cloud Servers
+-	Improve build and deployment workflows
+
+
+#### From July 2014 to October 2014
 **Development and Operations Specialist**  
 _AssetScience LLC, Montreal_
 
