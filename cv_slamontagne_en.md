@@ -15,7 +15,7 @@ Work in teams to develop products that push the limits of technology
 Work Experience
 --------------------------
 
-#### Since October 2014
+#### From October 2014 to August 2016
 **Team Lead DevOps**  
 _AssetScience LLC, Montreal_
 
@@ -77,7 +77,7 @@ Analyze and implement enterprise solutions for iWeb's different departments and 
 
 
 **Realisations :**
- 
+
 -	Automated Server installation
 -	Creating a virtual machine infrastructure for training and certification of IPv6
 -	Maintenance of « High Availability » services
@@ -94,19 +94,19 @@ _Novariant Canada, Sainte-Julie_
 
 **Realisations :**
 
--	Integrate U-Boot and Busybox 
--	Development of linux kernel driver for the embedded platform 
--	Integration of OpenVPN as the embedded platform VPN solution 
--	Creating Bash scripts for automated configuration 
--	The support for the development process and factory testing 
--	Administration of Linux lab computers 
--	Installation and configuration of TeamCity server (Continuous Integration) 
+-	Integrate U-Boot and Busybox
+-	Development of linux kernel driver for the embedded platform
+-	Integration of OpenVPN as the embedded platform VPN solution
+-	Creating Bash scripts for automated configuration
+-	The support for the development process and factory testing
+-	Administration of Linux lab computers
+-	Installation and configuration of TeamCity server (Continuous Integration)
 -	Management of TRAC server
 
-**Skills :** 
+**Skills :**
 
--	Knowledge of electronics 
--	Good ability to work in team 
+-	Knowledge of electronics
+-	Good ability to work in team
 -	Managements of small projects
 
 
@@ -132,7 +132,7 @@ _École de technologie supérieure (ÉTS)_
 
 - __Special Project :__
 > "Creation of a Linux OS for autonomous vehicules"
-- __Final Project :__ 
+- __Final Project :__
 > "Easy wireless communication management for a proprietary embedded platform"
 
 
@@ -148,4 +148,3 @@ Realisations
 #### From 2005 to 2008
 ** SysAdmin and Developer for the S.O.N.I.A. project (ÉTS) **  
 _http://sonia.etsmtl.ca_  
-
