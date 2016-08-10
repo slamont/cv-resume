@@ -127,7 +127,7 @@ Education
 ------------------
 
 #### From 2006 to 2009
-** Bachelor's degrees in Information technology engineering **  
+**Bachelor's degrees in Information technology engineering**  
 _École de technologie supérieure (ÉTS)_
 
 - __Special Project :__
@@ -137,7 +137,7 @@ _École de technologie supérieure (ÉTS)_
 
 
 #### From 2004 to 2006
-** Courses in Software Engineering **  
+**Courses in Software Engineering**  
 _École de technologie supérieure (ÉTS)_
 
 
@@ -146,5 +146,5 @@ Realisations
 ------------
 
 #### From 2005 to 2008
-** SysAdmin and Developer for the S.O.N.I.A. project (ÉTS) **  
+**SysAdmin and Developer for the S.O.N.I.A. project (ÉTS)**  
 _http://sonia.etsmtl.ca_  

@@ -121,7 +121,7 @@ Formation générale
 ------------------
 
 #### De 2006 à 2009
-** Baccalauréat en Génie des technologies de l'information **  
+**Baccalauréat en Génie des technologies de l'information**  
 _École de technologie supérieure (ÉTS)_
 
 - __Projet spécial :__
@@ -131,7 +131,7 @@ _École de technologie supérieure (ÉTS)_
 
 
 #### De 2004 à 2006
-** Cours en Génie logiciel **  
+**Cours en Génie logiciel**  
 _École de technologie supérieure (ÉTS)_
 
 
@@ -139,6 +139,6 @@ Réalisations
 ------------
 
 #### De 2005 à 2008
-** Administrateur Système et développeur pour le projet  S.O.N.I.A. (ÉTS) **  
+**Administrateur Système et développeur pour le projet  S.O.N.I.A. (ÉTS)**  
 _http://sonia.etsmtl.ca_  
 * Vision artificielle en C++, gestion du OS Linux et administration de serveur.
