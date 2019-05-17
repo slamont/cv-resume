@@ -16,7 +16,7 @@ Expérience professionnelle
 --------------------------
 
 #### De Septembre 2016 à Aujourd'hui
-**Spécialiste DevOps, Intégrateur plateforme ARM et Développeur Grails Vaadin**
+**Spécialiste DevOps, Intégrateur plateforme ARM et Développeur Grails Vaadin**  
 _SteelFab790, Candiac_
 
 SteelFab790 est une petite entreprise de 10 personnes. Notre équipe multidisciplinaire est au coeur de la réalisation de la plateforme GiGrow. Nous travaillons à intégrer et créer des solutions hautement technologiques pour le domaine de l'agriculture contrôlé. Chaque membre participe à la résolution des défis reliés à la conception d'une machine innovante.
@@ -25,7 +25,7 @@ Nous faisons la gestion de l'infrastructure dans les services infonuagique d'Ama
 
 Nous avons aussi mis en place une solution de surveillance complète, basée sur Prometheus et Grafana.
 
-Je crois au travail d'équipe et à la collaboration.
+Je crois au travail d'équipe et à la collaboration.  
 Je crois aussi que la standardisation et l'automatisation sont des facteurs clés à la réussite des projets logiciels et leurs qualités.
 
 **Réalisation :**
@@ -50,7 +50,7 @@ Je crois aussi que la standardisation et l'automatisation sont des facteurs clé
 
 
 #### De Octobre 2014 à Août 2016
-**Chef d'équipe DevOps**
+**Chef d'équipe DevOps**  
 _AssetScience LLC, Montreal_
 
 Notre équipe DevOps est au coeur de l'entreprise et nous développons des solutions qui aideront nos collègues des opérations et du développement. Nous collaborons à améliorer et aider le travail des équipes d'opérations et de développement afin qu'elles puissent livrer de nouvelles fonctionnalités de qualité rapidement à nos clients.
@@ -59,7 +59,7 @@ Nous faisons la gestion de l'infrastructure, centrale à notre solution d'analys
 
 Nous avons aussi mis en place une solution de surveillance complètement automatisée, basée sur Icinga et Puppet.
 
-Je crois au travail d'équipe et à la collaboration.
+Je crois au travail d'équipe et à la collaboration.  
 Je crois aussi que la standardisation et l'automatisation sont des facteurs clés à la réussite des projets logiciels et leurs qualités.
 
 **Réalisation :**
@@ -71,7 +71,7 @@ Je crois aussi que la standardisation et l'automatisation sont des facteurs clé
 
 
 #### De Juillet 2014 à Octobre 2014
-**Spécialiste du Développement Operationnel (DevOps)**
+**Spécialiste du Développement Operationnel (DevOps)**  
 _AssetScience LLC, Montreal_
 
 Développe des solutions avec Puppet pour la gestion, le maintien et l'automatisation de l'infrastructure client et interne de la compagnie. Travail sur l'architecture TI permettant d'apporter l'intégration continue au cycle de livraison des produits de AssetScience.
@@ -85,7 +85,7 @@ Développe des solutions avec Puppet pour la gestion, le maintien et l'automatis
 
 
 #### De Novembre 2011 à Juin 2014
-**Développeur Agile Intermédiaire**
+**Développeur Agile Intermédiaire**  
 _iWeb Technologie, Îles des Soeurs_
 
 Développe des solutions en Python, Java et PHP pour les produits d'iWeb. Travaille principalement en intégration continue dans un environnement agile. Utilise les grands principes du Génie logiciel, notamment le développement itératif et la gestion de configuration avec des outils tels que Git et SVN. Expert du système d'automatisation des configurations "Puppet". Possède une bonne expérience en gestion opérationnelle.
@@ -101,7 +101,7 @@ Développe des solutions en Python, Java et PHP pour les produits d'iWeb. Travai
 
 
 #### De 2010 à 2011
-**Spécialiste de l’architecture TI**
+**Spécialiste de l’architecture TI**  
 _iWeb Technologie, Îles des Soeurs_
 
 Analyser et implanter des architectures d’entreprise pour améliorer le travail et le développement des services de iWeb. J’ai en grande partie développé la plateforme d’hébergement partagé déployé dans le nouveau centre de données. J’ai aussi développé une infrastructure de certification IPv6 utilisant la virtualisation KVM pour les employés de iWeb.
@@ -119,7 +119,7 @@ Analyser et implanter des architectures d’entreprise pour améliorer le travai
 
 
 #### De 2008 à 2010
-**Intégrateur Logiciel et Système embarqué PowerPC**
+**Intégrateur Logiciel et Système embarqué PowerPC**  
 _Novariant Canada, Sainte-Julie_
 
 **Réalisation :**
@@ -144,7 +144,7 @@ Certifications
 ---------------
 
 #### Février 2013
-**Professional Scrum Product Owner 1**
+**Professional Scrum Product Owner 1**  
 _Scrum.org_
 
 #### Août 2011
@@ -155,7 +155,7 @@ Formation générale
 ------------------
 
 #### De 2006 à 2009
-**Baccalauréat en Génie des technologies de l'information**
+**Baccalauréat en Génie des technologies de l'information**  
 _École de technologie supérieure (ÉTS)_
 
 - __Projet spécial :__
@@ -165,7 +165,7 @@ _École de technologie supérieure (ÉTS)_
 
 
 #### De 2004 à 2006
-**Cours en Génie logiciel**
+**Cours en Génie logiciel**  
 _École de technologie supérieure (ÉTS)_
 
 
@@ -173,6 +173,6 @@ Réalisations
 ------------
 
 #### De 2005 à 2008
-**Administrateur Système et développeur pour le projet  S.O.N.I.A. (ÉTS)**
+**Administrateur Système et développeur pour le projet  S.O.N.I.A. (ÉTS)**  
 _http://sonia.etsmtl.ca_
 * Vision artificielle en C++, gestion du OS Linux et administration de serveur.
