@@ -16,12 +16,12 @@ Expérience professionnelle
 --------------------------
 
 #### De Septembre 2016 à Aujourd'hui
-**Spécialiste DevOps et Développeur Grails Vaadin**
+**Spécialiste DevOps, Intégrateur plateforme ARM et Développeur Grails Vaadin**
 _SteelFab790, Candiac_
 
-SteelFab790 est une petite entreprise de 10 personnes, fabriquant une machine rotative pour la culture contrôlé et précise de plantes. Notre équipe d'ingénierie de 4 personnes est responsable autant de l'électronique que des systèmes logiciels. Chaques membres participent à la résolution des défis relié au développement d'une machine innovante. Depuis Juin 2017 nous avons un bureau à Candiac.
+SteelFab790 est une petite entreprise de 10 personnes. Notre équipe multidisciplinaire est au coeur de la réalisation de la plateforme GiGrow. Nous travaillons à intégrer et créer des solutions hautement technologiques pour le domaine de l'agriculture contrôlé. Chaque membre participe à la résolution des défis reliés à la conception d'une machine innovante.
 
-Nous faisons la gestion de l'infrastructure dans les services Cloud d'Amazon (AWS). L'infrastructure complète de l'entreprise est maintenant automatisée et gérée avec Ansible. Nous faisons de l'intégration continue avec Jenkins et nos services tournent sous docker.
+Nous faisons la gestion de l'infrastructure dans les services infonuagique d'Amazon (AWS). L'infrastructure complète de l'entreprise est maintenant automatisée et gérée avec Ansible. Nous faisons de l'intégration continue avec Jenkins et nos services tournent sous Docker. Mes expériences passées me permettent aussi d'apporter des suggestions en matière de sécurité.
 
 Nous avons aussi mis en place une solution de surveillance complète, basée sur Prometheus et Grafana.
 
@@ -30,12 +30,23 @@ Je crois aussi que la standardisation et l'automatisation sont des facteurs clé
 
 **Réalisation :**
 
-- Mise en place d'un système d'encryption complet pour un OS Linux spécialisé
+- Mise en place d'un système de cryptage complet pour un OS Linux spécialisé
 - Responsable de la mise en place de l'infrastructure dans AWS
 - Participer à l'orientation technologique
 - Gérer les coûts et estimations pour l'infrastructure de produits et serveurs Cloud
-- Améliorer les processus de déploiement et de fabrication
 - Aide au développement des applications basé sur Grails et Vaadin
+- Mise en place d'outils de compilation ARM
+- Développement de pilote pour la plateforme embarquée et le noyau Linux
+- Création d’une solution VPN intégrée à la plateforme utilisant OpenVPN
+- Implantation des outils d'intégration continue
+- Administration de l'infrastructure informatique
+
+**Habiletés développée :**
+
+- Connaissance de l'intégration de bas niveau (Noyau, pilotes, registre)
+- Bonne compréhension systémique
+- Bonne aptitude à travailler en équipe
+- Gestions de petits projets
 
 
 #### De Octobre 2014 à Août 2016
