@@ -1,8 +1,9 @@
 # CV/RESUME
 
-[English](/cv_slamontagne_en.html)
-[Français](/cv_slamontagne_fr.html)
+[Français](/cv-resume/cv_slamontagne_fr.html)
+[English](/cv-resume/cv_slamontagne_en.html)
+
 
 ## Notes
 
-[README](/README.html)
+[README](/cv-resume/README.html)
