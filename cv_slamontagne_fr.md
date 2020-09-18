@@ -34,7 +34,7 @@ Je crois aussi que la standardisation et l'automatisation sont des facteurs clé
 - Responsable de la mise en place de l'infrastructure dans AWS
 - Participer à l'orientation technologique
 - Gérer les coûts et estimations pour l'infrastructure de produits et serveurs Cloud
-- Aide au développement des applications basé sur Grails et Vaadin
+- Aide au développement des applications basées sur Grails et Vaadin
 - Mise en place d'outils de compilation ARM
 - Développement de pilote pour la plateforme embarquée et le noyau Linux
 - Création d’une solution VPN intégrée à la plateforme utilisant OpenVPN
