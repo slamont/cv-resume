@@ -50,7 +50,7 @@ Nous faisons la gestion d'infrastructure Kubernetes dans les services infonuagiq
 - Responsable de la mise en place de l'infrastructure dans AWS
 - Participer à l'orientation technologique
 - Implantation des outils d'intégration continue
-- Ammélioration de la surveillance des systèmes
+- Amélioration de la surveillance des systèmes
 
 **Habiletés développée :**
 
