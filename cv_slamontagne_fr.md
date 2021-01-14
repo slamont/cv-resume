@@ -15,7 +15,52 @@ Travailler en équipe à développer des produits qui repoussent les limites tec
 Expérience professionnelle
 --------------------------
 
-#### De Septembre 2016 à Aujourd'hui
+
+#### De Septembre 2020 à Aujourd'hui
+**Chef d'équipe DevOps et Responsable Produit Cloud et Infrastructure**  
+_GTX - Kraken Lab, Brossard_
+
+Responsable de l'élaboration et de la gestion des tâches reliées aux infrastructures et services Cloud. Participe à différents comités internes pour l'amélioration des processus. Veille à soutenir l'équipe au maximum en temps de pandémie. Je m'assure de remonter les différents problèmes détectés en production dans les bonnes équipes de développement.
+
+
+**Réalisation :**
+
+- Responsable de la mise en place de l'infrastructure dans AWS
+- Participer à l'orientation technologique
+- Gérer les coûts et estimations pour l'infrastructure de produits et serveurs Cloud
+
+**Habiletés développée :**
+
+- Bonne compréhension systémique
+- Bonne capacité de vulgarisation
+- Gestion d'équipe en situation de pandémie
+
+
+#### De Septembre 2019 à Septembre 2020
+**DevOps Sénior**  
+_GTX - Kraken Lab, Brossard_
+
+Le Groupe Techno-X (GTX) est un regroupement des compagnies Spypoint, Vosker, Zeniox, Kraken Lab et GTX. Kraken Lab est le centre d'innovation et de développement technologique du groupe et subie une forte croissance. Notre équipe « DevOps » est au coeur de la gestion des infrastructures Cloud pour les différentes compagnies du groupe. Supportant à la fois la production et les outils internes de développement.
+
+Nous faisons la gestion d'infrastructure Kubernetes dans les services infonuagique d'Amazon (AWS). Nous sommes aussi responsables des bases de données MongoDB Atlas et des infrastructures d'analyse de donnée ElasticSearch. Nous travaillons à la standardisation et à l'automatisation des infrastructures en utilisant les principes d'infrastructure en tant que code (IaC) avec Ansible et Terraform. Nous sommes égalements les évangiles des bonnes pratiques et cherchons l'amélioration des méthodes de développement et l'augmentation de la qualité et de la sécurité.
+
+
+**Réalisation :**
+
+- Responsable de la mise en place de l'infrastructure dans AWS
+- Participer à l'orientation technologique
+- Implantation des outils d'intégration continue
+- Ammélioration de la surveillance des systèmes
+
+**Habiletés développée :**
+
+- Bonne compréhension systémique
+- Bonne capacité de vulgarisation
+- Bonne aptitude à travailler en équipe
+- Gestions de projets d'infrastructure complexes multicompagnies
+
+
+#### De Septembre 2016 à Août 2019
 **Spécialiste DevOps, Intégrateur plateforme ARM et Développeur Grails Vaadin**  
 _SteelFab790, Candiac_
 
@@ -27,6 +72,7 @@ Nous avons aussi mis en place une solution de surveillance complète, basée sur
 
 Je crois au travail d'équipe et à la collaboration.  
 Je crois aussi que la standardisation et l'automatisation sont des facteurs clés à la réussite des projets logiciels et leurs qualités.
+
 
 **Réalisation :**
 
@@ -62,6 +108,7 @@ Nous avons aussi mis en place une solution de surveillance complètement automat
 Je crois au travail d'équipe et à la collaboration.  
 Je crois aussi que la standardisation et l'automatisation sont des facteurs clés à la réussite des projets logiciels et leurs qualités.
 
+
 **Réalisation :**
 
 - Coach d'autres développeurs sur l'intégration continue et les méthodes agiles
@@ -76,6 +123,7 @@ _AssetScience LLC, Montreal_
 
 Développe des solutions avec Puppet pour la gestion, le maintien et l'automatisation de l'infrastructure client et interne de la compagnie. Travail sur l'architecture TI permettant d'apporter l'intégration continue au cycle de livraison des produits de AssetScience.
 
+
 **Réalisation :**
 
 - Référence Puppet et expert en automatisation des configurations
@@ -89,6 +137,7 @@ Développe des solutions avec Puppet pour la gestion, le maintien et l'automatis
 _iWeb Technologie, Îles des Soeurs_
 
 Développe des solutions en Python, Java et PHP pour les produits d'iWeb. Travaille principalement en intégration continue dans un environnement agile. Utilise les grands principes du Génie logiciel, notamment le développement itératif et la gestion de configuration avec des outils tels que Git et SVN. Expert du système d'automatisation des configurations "Puppet". Possède une bonne expérience en gestion opérationnelle.
+
 
 **Réalisation :**
 
@@ -106,6 +155,7 @@ _iWeb Technologie, Îles des Soeurs_
 
 Analyser et implanter des architectures d’entreprise pour améliorer le travail et le développement des services de iWeb. J’ai en grande partie développé la plateforme d’hébergement partagé déployé dans le nouveau centre de données. J’ai aussi développé une infrastructure de certification IPv6 utilisant la virtualisation KVM pour les employés de iWeb.
 
+
 **Réalisation :**
 
 - Automatisation d’installation
@@ -121,6 +171,7 @@ Analyser et implanter des architectures d’entreprise pour améliorer le travai
 #### De 2008 à 2010
 **Intégrateur Logiciel et Système embarqué PowerPC**  
 _Novariant Canada, Sainte-Julie_
+
 
 **Réalisation :**
 
