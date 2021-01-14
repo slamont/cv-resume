@@ -20,7 +20,7 @@ Expérience professionnelle
 **Chef d'équipe DevOps et Responsable Produit Cloud et Infrastructure**  
 _GTX - Kraken Lab, Brossard_
 
-Responsable de l'élaboration et de la gestion des tâches reliés aux infrastructures et services Cloud. Participe à différents commité interne pour l'ammélioration des processus. Veille à supporter l'équipe au maximum en temps de pandémie. S'assure de remonter les différents problèmes détecté en production dans les bonnes équipes de développement.
+Responsable de l'élaboration et de la gestion des tâches reliées aux infrastructures et services Cloud. Participe à différents comités internes pour l'amélioration des processus. Veille à soutenir l'équipe au maximum en temps de pandémie. Je m'assure de remonter les différents problèmes détectés en production dans les bonnes équipes de développement.
 
 
 **Réalisation :**
@@ -40,9 +40,9 @@ Responsable de l'élaboration et de la gestion des tâches reliés aux infrastru
 **DevOps Sénior**  
 _GTX - Kraken Lab, Brossard_
 
-Le Groupe Techno-X (GTX) est un regroupement des compagnies Spypoint, Vosker, Zeniox, Kraken Lab et GTX. Kraken Lab est le centre d'innovation et de développement technologique du groupe et subie une forte croissance. Notre équipe "DevOps" est au coeur de la gestion des infrastructures cloud pour les différentes compagnies du groupe. Supportant à la fois la production que les outils internes de développement.
+Le Groupe Techno-X (GTX) est un regroupement des compagnies Spypoint, Vosker, Zeniox, Kraken Lab et GTX. Kraken Lab est le centre d'innovation et de développement technologique du groupe et subie une forte croissance. Notre équipe « DevOps » est au coeur de la gestion des infrastructures Cloud pour les différentes compagnies du groupe. Supportant à la fois la production et les outils internes de développement.
 
-Nous faisons la gestion d'infrastructure Kubernetes dans les services infonuagique d'Amazon (AWS). Nous sommes aussi responsable des base de donnée MongoDB Atlas et des infrastructures d'analyse de donnée ElasticSearch. Nous travaillons à la standardisation et à l'automatisation des infrastructures en utilisant les principes de Infrastructure en tant que code (IaC) avec Ansible et Terraform. Nous sommes égalements les évangiles des bonnes pratiques et cherchons l'ammélioration des méthodes de développement et l'augmentation de la qualité et de la sécurité.
+Nous faisons la gestion d'infrastructure Kubernetes dans les services infonuagique d'Amazon (AWS). Nous sommes aussi responsables des bases de données MongoDB Atlas et des infrastructures d'analyse de donnée ElasticSearch. Nous travaillons à la standardisation et à l'automatisation des infrastructures en utilisant les principes d'infrastructure en tant que code (IaC) avec Ansible et Terraform. Nous sommes égalements les évangiles des bonnes pratiques et cherchons l'amélioration des méthodes de développement et l'augmentation de la qualité et de la sécurité.
 
 
 **Réalisation :**
@@ -57,7 +57,7 @@ Nous faisons la gestion d'infrastructure Kubernetes dans les services infonuagiq
 - Bonne compréhension systémique
 - Bonne capacité de vulgarisation
 - Bonne aptitude à travailler en équipe
-- Gestions de projets d'infrastructure complexes multi-compagnies
+- Gestions de projets d'infrastructure complexes multicompagnies
 
 
 #### De Septembre 2016 à Août 2019
